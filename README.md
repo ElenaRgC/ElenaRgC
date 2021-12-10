@@ -22,7 +22,5 @@ By the end of May 2022 I'll have over 500 hours of experience in front-end devel
 - [ ] **Korean** :kr: Achieved a Level 2 in the&nbsp;[TOPIK](https://www.topik.go.kr/TWMAIN/TWMAIN0010.do) 
 - [ ] **Japanese** :jp: Beginner, still not taken any test.
 
-### I also like to play videogames from time to time:
-
  <!-- steam-box start -->
  <!-- steam-box end -->

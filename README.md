@@ -10,8 +10,8 @@ By the end of May 2022 I'll have over 500 hours of experience in front-end devel
 ### [The curriculum](http://cifpvirgendegracia.com/SEPE/IFCD0110/IFCD0110_ficha.pdf) 📚 :
 
 - [X] **HTML** (COMPLETED! 🎉 )
-- [ ] **CSS** (Currently studying)
-- [ ] **JavaScript**
+- [X] **CSS** (Finised too! ✨ )
+- [ ] **JavaScript** (Currently studying...)
 - [ ] ???
 
 ## What I do on my free time
